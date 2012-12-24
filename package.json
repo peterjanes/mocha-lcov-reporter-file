@@ -1,8 +1,12 @@
 {
-    "name": "mocha-lcov-reporter",
+    "name": "mocha-lcov-reporter-file",
     "description": "LCOV reporter for Mocha",
     "version": "0.0.1",
     "author": "Steven Looman <steven.looman@gmail.com>",
+    "contributors": [
+        { "name": "Steven Looman", "email": "steven.looman@gmail.com" },
+        { "name": "Peter Janes", "email": "peter.janes@ek3.com" }
+    ],
     "keywords": [ "mocha", "reporter", "lcov", "coverage" ],
     "licenses" : [
         {
@@ -24,6 +28,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/StevenLooman/mocha-lcov-reporter.git"
+        "url": "git://github.com/peterjanes/mocha-lcov-reporter.git"
     }
 }
