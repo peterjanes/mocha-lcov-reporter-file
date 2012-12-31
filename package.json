@@ -1,7 +1,7 @@
 {
     "name": "mocha-lcov-reporter-file",
     "description": "LCOV reporter for Mocha",
-    "version": "0.0.1",
+    "version": "0.0.2-beta",
     "author": "Steven Looman <steven.looman@gmail.com>",
     "contributors": [
         { "name": "Steven Looman", "email": "steven.looman@gmail.com" },
